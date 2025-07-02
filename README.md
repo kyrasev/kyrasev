@@ -7,7 +7,7 @@
 - <b>Linux command line</b>
   - [Managing file permissions](https://docs.google.com/document/d/1sjjpCWKfg73kh2rpjNnJrTlFaoVXHGgPP8cXZtZtCpc/edit?usp=sharing) 
 
-<h2> Certifications:</h2>
+<h2>🚀 Certifications:</h2>
 
  - [Google Cybersecurity Professional Certificate V2](https://www.credly.com/badges/db760b91-9bac-4a54-a5f3-f5ae8d9b9235/linked_in_profile)
 
