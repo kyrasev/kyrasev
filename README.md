@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Kyra! <br/><a href="https://github.com/joshmadakor1">Aspiring Security Professional</a>
+  
+<h2>👩🏻‍💻 Technical Projects:</h2>
 
-<!--
-**kyrasev/kyrasev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>HTB Academy- Network Traffic Analysis</b>
+  - [Wireshark, tcpdump, packet sniffing](https://academy.hackthebox.com/achievement/1927082/81)
+- <b>Linux command line</b>
+  - [Managing file permissions](https://docs.google.com/document/d/1sjjpCWKfg73kh2rpjNnJrTlFaoVXHGgPP8cXZtZtCpc/edit?usp=sharing) 
 
-Here are some ideas to get you started:
+<h2> Certifications:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - [Google Cybersecurity Professional Certificate V2](https://www.credly.com/badges/db760b91-9bac-4a54-a5f3-f5ae8d9b9235/linked_in_profile)
+
+<h2>📲 Connect with me:</h2>
+
+ - [linkedin](https://linkedin.com/in/kyrasevilla)
